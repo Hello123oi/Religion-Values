@@ -108,7 +108,7 @@ questions =
             "The Jews are inherently evil and seek to destroy everything that is not Jewish.",
         ],
         [//-4
-            "The Books of Genesis, Exodus, Leviticus, Numbers and Deuteronomy are almost entirely untrue.",
+            "The Jews killed Jesus.",
             "God willed the destruction of the Second Temple.",
             "The Jews have deserved everything that has been done to them in the past 3500 years.",
         ]],[//Islam
