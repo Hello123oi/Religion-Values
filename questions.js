@@ -69,11 +69,11 @@ questions =
             "The Bishop of Rome having jurisdiction over the entire church is a major obstacle to unity between East and West.",
         ],
         [//1
-        ],
+             "Faith without works is dead.",
+	],
         [//-1
             "Hesychasm is heretical.",
             "God is etirely immutable.",
-            "Faith without works is dead.",
         ],
         [//-2
             "I have significant theological issues with Eastern Orthodoxy.",
